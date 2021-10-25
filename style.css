@@ -127,8 +127,8 @@ a:hover {
 .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
+.d-bloc p a
 .d-bloc a .icon-sm,
-.d-bloc a .icon-md,
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
@@ -137,7 +137,7 @@ a:hover {
 .d-bloc h4 a,
 .d-bloc h5 a,
 .d-bloc h6 a {
-    color: rgba(255, 255, 255, .6);
+    color: #000;
 }
 
 .d-bloc .a-btn:hover,
@@ -825,9 +825,6 @@ button, input, optgroup, select, textarea {
     color: #000;
 }
 
-
-
-
 .statement-bloc-text {
     line-height: 26px;
     font-style: italic;
@@ -861,6 +858,9 @@ p {
 }
 /**rajouter sur les logos des reseaux sociaux**/
 .social, .fa {
+    color: #000;
+}
+.d-bloc a .icon-md {
     color: #000;
 }
 
