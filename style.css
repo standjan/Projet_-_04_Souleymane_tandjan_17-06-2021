@@ -1095,6 +1095,7 @@ h4 {
     .b-parallax {
         background-attachment: scroll;
     }
+    
     .navbar .nav {
         padding-top: 0;
         border-top: 1px solid rgba(0, 0, 0, .2);
@@ -1110,6 +1111,7 @@ h4 {
         -webkit-transform: none;
         -ms-transform: none;
     }
+    
     .nav > li {
         margin-top: 0;
         border-bottom: 1px solid rgba(0, 0, 0, .1);
@@ -1121,6 +1123,7 @@ h4 {
     .nav > li:hover {
         background: rgba(0, 0, 0, .08);
     }
+    
     .dropdown .dropdown a .caret {
         float: none;
         margin: 5px 0 0 10px!important;
